@@ -2,6 +2,7 @@
   "name": "tablero-comunicaciones",
   "private": false,
   "version": "0.0.0",
+  "homepage": "https://JoseVeraTRX.github.io/tablero-comunicaciones",
   "type": "module",
   "scripts": {
     "dev": "vite",
